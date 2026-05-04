@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
+                "file": "0. Estructura de la documentación de Matrix-UGR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3.5 homeserver.yaml"
+              "title": "0. Estructura de la documentación de Matrix-UGR"
             }
           },
           {
@@ -466,8 +466,8 @@
   },
   "active": "d5e3447a7648074e",
   "lastOpenFiles": [
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.4 saml_mapping.py.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.4 saml_mapping.py.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.3 Configuración del Proxy Inverso (Nginx).md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.4 backup_matrix.sh.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.2.1 Que se almacena en el directorio.md",
