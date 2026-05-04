@@ -218,6 +218,62 @@
             }
           },
           {
+            "id": "38d9e736dce1fc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.3 Directorio attribute-maps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3.3 Directorio attribute-maps"
+            }
+          },
+          {
+            "id": "beeede62e3f4d6a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.1 homeserver.db.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3.1 homeserver.db"
+            }
+          },
+          {
+            "id": "c87c2300f892e954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Arquitectura del Sistema y Mapa de Archivos/3.0 Arquitectura del Sistema y Mapa de archivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.0 Arquitectura del Sistema y Mapa de archivos"
+            }
+          },
+          {
+            "id": "d5e3447a7648074e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3.5 homeserver.yaml"
+            }
+          },
+          {
             "id": "06ad6f99b7cc7b40",
             "type": "leaf",
             "state": {
@@ -246,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -408,27 +464,31 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "67d176f57a70e7af",
+  "active": "d5e3447a7648074e",
   "lastOpenFiles": [
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.4 saml_mapping.py.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.3 Configuración del Proxy Inverso (Nginx).md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.4 backup_matrix.sh.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.2.1 Que se almacena en el directorio.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.3.2 leeme.txt.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.3.3 log_cron.txt.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.1 homeserver.db.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.2 ugr-idp-metadata.xml.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.3 Directorio attribute-maps.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.0 Arquitectura del Sistema y Mapa de archivos.md",
+    "1. Introducción y Justificación de Tecnologías/1.4 Frontend (Element).md",
+    "2. Guía de instalación y Despliegue/2.1 Requisitos del sistema.md",
+    "2. Guía de instalación y Despliegue/2.3 Puesta en marcha.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.2 element-config.json.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.1 docker-compose.yml.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data",
     "0. Estructura de la documentación de Matrix-UGR.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.4 saml_mapping.py.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.3.3 log_cron.txt.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.3.2 leeme.txt.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.2.1 Que se almacena en el directorio.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.4 backup_matrix.sh.md",
-    "2. Guía de instalación y Despliegue/2.3 Puesta en marcha.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.1 docker-compose.yml.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.2 element-config.json.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.3 Configuración del Proxy Inverso (Nginx).md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.0 Arquitectura del Sistema y Mapa de archivos.md",
     "2. Guía de instalación y Despliegue/2.2 Preparación del entorno.md",
-    "2. Guía de instalación y Despliegue/2.1 Requisitos del sistema.md",
     "1. Introducción y Justificación de Tecnologías/1.1 Contexto del proyecto.md",
     "1. Introducción y Justificación de Tecnologías/1.2 El protocolo Matrix.md",
     "1. Introducción y Justificación de Tecnologías/1.3 Backend (Synapse).md",
-    "1. Introducción y Justificación de Tecnologías/1.4 Frontend (Element).md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación",
     "Antiguo/8. Despliegue con ngynx, archivo de configuración.md",
     "Antiguo/2. Instalación local, creación del entorno y generación de claves.md",
@@ -440,9 +500,6 @@
     "Antiguo/1. Que es un servidor matrix y que arquitectura hemos elegido..md",
     "Antiguo",
     "Sin título.base",
-    "Antiguo/10. Despliegue con ngynx,  cifradoSSL.md",
-    "Antiguo/9. Despliegue con ngynx, configuración del Proxy.md",
-    "Antiguo/6. Despliegue con ngynx, configuraciones previas.md",
     "imgs",
     "imgs/Pasted image 20260318101844.png"
   ]
