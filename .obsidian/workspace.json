@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Casos de uso/5.2 Administración de la Aplicación/5.2.3 Gestión de Administradores.md",
+                "file": "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.1 Gestión de los Backups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2.3 Gestión de Administradores"
+              "title": "5.1.1 Gestión de los Backups"
             }
           },
           {
@@ -316,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       },
       {
         "id": "029af1f3c8e84245",
@@ -377,9 +377,51 @@
               "icon": "lucide-file",
               "title": "5.2.4 Desactivación de Usuarios (Baneos)"
             }
+          },
+          {
+            "id": "f07849bd9a6647f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Casos de uso/5.2 Administración de la Aplicación/5.2.5 Privacidad y Visibilidad de Salas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2.5 Privacidad y Visibilidad de Salas"
+            }
+          },
+          {
+            "id": "097e7eeab87a0b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Casos de uso/5.2 Administración de la Aplicación/5.2.6 Permisos de administrador en salas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2.6 Permisos de administrador en salas"
+            }
+          },
+          {
+            "id": "5c7971f8fb1f84dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Casos de uso/5.2 Administración de la Aplicación/5.2.7 Sincronización de Dispositivos (E2EE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2.7 Sincronización de Dispositivos (E2EE)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -436,7 +478,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "c98c6d5039f2b63d",
@@ -541,14 +583,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "deb0fddd7f483d19",
+  "active": "5c7971f8fb1f84dc",
   "lastOpenFiles": [
+    "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.1 Gestión de los Backups.md",
+    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.7 Sincronización de Dispositivos (E2EE).md",
+    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.6 Permisos de administrador en salas.md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.3 Gestión de Administradores.md",
+    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.5 Privacidad y Visibilidad de Salas.md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.4 Desactivación de Usuarios (Baneos).md",
     "0. Estructura de la documentación de Matrix-UGR.md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.2 Acceso directo a la Base de Datos (SQLite).md",
     "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.2 Monitorización de los logs.md",
-    "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.1 Gestión de los Backups.md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.1 Acceso a Synapse-Admin.md",
     "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.6 Gestión del Media Store.md",
     "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.5 Actualización de la Interfaz Web (Element).md",
@@ -569,9 +614,6 @@
     "5. Casos de uso/5.2 Administración de la Aplicación",
     "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor",
     "5. Casos de uso",
-    "4. Seguridad/4.3 Cifrado con claves en Matrix.md",
-    "4. Seguridad/4.2 Cifrado de Extremo a Extremo (E2EE) y Base de datos.md",
-    "4. Seguridad/4.1 Flujo del SSO (SAML).md",
     "4. Seguridad",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups",
