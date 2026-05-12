@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.1 Gestión de los Backups.md",
+                "file": "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1.1 Gestión de los Backups"
+              "title": "3.3.5 homeserver.yaml"
             }
           },
           {
@@ -412,12 +412,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Casos de uso/5.2 Administración de la Aplicación/5.2.7 Sincronización de Dispositivos (E2EE).md",
+                "file": "5. Casos de uso/5.2 Administración de la Aplicación/5.2.4 Desactivación de Usuarios (Baneos).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2.7 Sincronización de Dispositivos (E2EE)"
+              "title": "5.2.4 Desactivación de Usuarios (Baneos)"
             }
           }
         ],
@@ -583,14 +583,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5c7971f8fb1f84dc",
+  "active": "06ad6f99b7cc7b40",
   "lastOpenFiles": [
+    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.4 Desactivación de Usuarios (Baneos).md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
     "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.1 Gestión de los Backups.md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.7 Sincronización de Dispositivos (E2EE).md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.6 Permisos de administrador en salas.md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.3 Gestión de Administradores.md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.5 Privacidad y Visibilidad de Salas.md",
-    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.4 Desactivación de Usuarios (Baneos).md",
     "0. Estructura de la documentación de Matrix-UGR.md",
     "5. Casos de uso/5.2 Administración de la Aplicación/5.2.2 Acceso directo a la Base de Datos (SQLite).md",
     "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.2 Monitorización de los logs.md",
@@ -610,7 +611,6 @@
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.3.3 log_cron.txt.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.3.2 leeme.txt.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.2.1 Que se almacena en el directorio.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.2 element-config.json.md",
     "5. Casos de uso/5.2 Administración de la Aplicación",
     "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor",
     "5. Casos de uso",
