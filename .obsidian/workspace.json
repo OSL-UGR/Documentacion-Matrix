@@ -377,12 +377,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
+                "file": "6. Implementación de Chatbots/6.2 Maubot/6.2.1 Introducción a Maubot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3.5 homeserver.yaml"
+              "title": "6.2.1 Introducción a Maubot"
             }
           },
           {
@@ -564,9 +564,10 @@
   },
   "active": "502b90ed928e079b",
   "lastOpenFiles": [
+    "6. Implementación de Chatbots/6.2 Maubot/6.2.3 Como utilizarlo.md",
+    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.4 saml_mapping.py.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.3 Directorio attribute-maps.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.2 ugr-idp-metadata.xml.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.3.2 leeme.txt.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.2.1 Que se almacena en el directorio.md",
@@ -578,7 +579,6 @@
     "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.1 Gestión de los Backups.md",
     "4. Seguridad/4.1 Flujo del SSO (SAML).md",
     "6. Implementación de Chatbots/6.2 Maubot/6.2.1 Introducción a Maubot.md",
-    "6. Implementación de Chatbots/6.2 Maubot/6.2.3 Como utilizarlo.md",
     "6. Implementación de Chatbots/6.1 Draupnir/6.1.4 Como añadirlo a una sala.md",
     "6. Implementación de Chatbots/6.1 Draupnir/6.1.2 Despliegue de Draupnir.md",
     "6. Implementación de Chatbots/6.1 Draupnir/6.1.1 Introducción a Draupnir.md",
