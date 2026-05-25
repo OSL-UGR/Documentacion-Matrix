@@ -391,16 +391,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Casos de uso/5.2 Administración de la Aplicación/5.2.3 Gestión de Administradores.md",
+                "file": "7. Api de Matrix, normalización de la documentación/7.9 Hilos y Relaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2.3 Gestión de Administradores"
+              "title": "7.9 Hilos y Relaciones"
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -562,44 +562,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "502b90ed928e079b",
+  "active": "6791820531e79667",
   "lastOpenFiles": [
+    "7. Api de Matrix, normalización de la documentación/7.8 Gestión de Archivos y Multimedia.md",
+    "7. Api de Matrix, normalización de la documentación/7.0 Información general sobre la documentación.md",
+    "7. Api de Matrix, normalización de la documentación/7.1 Gestión de cuentas.md",
+    "7. Api de Matrix, normalización de la documentación/7.9 Hilos y Relaciones.md",
+    "7. Api de Matrix, normalización de la documentación/7.7 Directorio de Salas (Alias).md",
+    "7. Api de Matrix, normalización de la documentación/7.6 Datos de Usuario (Perfiles).md",
+    "7. Api de Matrix, normalización de la documentación/7.5 Gestión de Sesiones.md",
+    "7. Api de Matrix, normalización de la documentación/7.4 Participación y Estado.md",
+    "7. Api de Matrix, normalización de la documentación/7.2 Creación de Salas y Espacios.md",
+    "7. Api de Matrix, normalización de la documentación/7.3 Membresía de Salas.md",
+    "7.9 Hilos y Relaciones.md",
+    "7.8 Gestión de Archivos y Multimedia.md",
+    "7.7 Directorio de Salas (Alias).md",
+    "7.6 Datos de Usuario (Perfiles).md",
+    "7.5 Gestión de Sesiones.md",
+    "7.4 Participación y Estado.md",
+    "7.3 Membresía de Salas.md",
+    "7.2 Creación de Salas y Espacios.md",
+    "7.1 Gestión de cuentas.md",
+    "6. Implementación de Chatbots/6.2 Maubot/6.2.1 Introducción a Maubot.md",
+    "7. Api de Matrix, normalización de la documentación/7.2 Creación de Salas y Espacios",
+    "7. Api de Matrix, normalización de la documentación/7.2 Creación de Salas y Espacois",
+    "7. Api de Matrix, normalización de la documentación/7.1 Gestión de cuentas",
+    "7. Api de Matrix, normalización de la documentación/7.1 Account management",
+    "7. Api de Matrix, normalización de la documentación/Sin nombre",
+    "7. Api de Matrix, normalización de la documentación",
     "6. Implementación de Chatbots/6.2 Maubot/6.2.3 Como utilizarlo.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.5 homeserver.yaml.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.4 saml_mapping.py.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.3 Directorio attribute-maps.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data/3.3.2 ugr-idp-metadata.xml.md",
     "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.3.2 leeme.txt.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups/3.2.1 Que se almacena en el directorio.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.4 backup_matrix.sh.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.3 Configuración del Proxy Inverso (Nginx).md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.2 element-config.json.md",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación/3.1.1 docker-compose.yml.md",
-    "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.2 Monitorización de los logs.md",
-    "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor/5.1.1 Gestión de los Backups.md",
-    "4. Seguridad/4.1 Flujo del SSO (SAML).md",
-    "6. Implementación de Chatbots/6.2 Maubot/6.2.1 Introducción a Maubot.md",
-    "6. Implementación de Chatbots/6.1 Draupnir/6.1.4 Como añadirlo a una sala.md",
-    "6. Implementación de Chatbots/6.1 Draupnir/6.1.2 Despliegue de Draupnir.md",
-    "6. Implementación de Chatbots/6.1 Draupnir/6.1.1 Introducción a Draupnir.md",
     "6. Implementación de Chatbots/6.2 Maubot",
-    "6. Implementación de Chatbots/6.1 Draupnir/6.1.3 Como utilizarlo.md",
-    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.7 Sincronización de Dispositivos (E2EE).md",
-    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.6 Permisos de administrador en salas.md",
     "6. Implementación de Chatbots/6.1 Draupnir",
-    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.1 Acceso a Synapse-Admin.md",
     "6. Implementación de Chatbots",
-    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.4 Desactivación de Usuarios (Baneos).md",
-    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.3 Gestión de Administradores.md",
-    "5. Casos de uso/5.2 Administración de la Aplicación/5.2.5 Privacidad y Visibilidad de Salas.md",
-    "0. Estructura de la documentación de Matrix-UGR.md",
     "5. Casos de uso/5.2 Administración de la Aplicación",
-    "5. Casos de uso/5.1 Operativas y Mantenimiento del servidor",
-    "5. Casos de uso",
-    "4. Seguridad",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.3 Directorio data",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.2 Directorio de Backups",
-    "3. Arquitectura del Sistema y Mapa de Archivos/3.1 Archivos Raíz y Orquestación",
     "imgs/Pasted image 20260318101844.png"
   ]
 }
